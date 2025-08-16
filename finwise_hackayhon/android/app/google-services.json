@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951448646284",
+    "project_id": "finwise-a8f67",
+    "storage_bucket": "finwise-a8f67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951448646284:android:de02e11a011793fbe801a9",
+        "android_client_info": {
+          "package_name": "com.example.finwise_hackayhon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCskdW2sCud3ft3XELrI9a3GjvDYQbT4MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
